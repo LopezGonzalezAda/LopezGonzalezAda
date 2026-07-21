@@ -10,6 +10,6 @@ Currently looking for a **six-month AI/ML internship starting in February 2027**
 
 * [Azota Exam Auto-Grading Pipeline](https://github.com/ChadiaWillems/Industry_Project_Azota) — YOLOv8, OpenCV OMR, OCR and automated grading
 * [AI-Powered Piano Trainer](https://github.com/LopezGonzalezAda/projectOne_ctai_2025) — real-time computer vision and Raspberry Pi integration
-* [Mars Rover RL Navigation](ADD-YOUR-REPOSITORY-LINK) — Unity ML-Agents, reward design and energy management
+* [Mars Rover RL Navigation](https://github.com/LopezGonzalezAda/mars-rover-rl-navigation) — Unity ML-Agents, reward design and energy management
 
 [LinkedIn](https://www.linkedin.com/in/ada-lopez-gonzalez/) · [Email](mailto:adalopezgonzalez@gmail.com)
